@@ -31,6 +31,7 @@ _🌷 Redes Sociais_
   <a href= "https://www.instagram.com/pripriii_lzd/" target="_blanket"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
  <a href= "https://open.spotify.com/user/53hv1iim5qab673j1gdu4dfhv?si=66e9d0c8a8864d14" target="_blanket"> <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="30" alt="spotify logo"  />
  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <a href= "https://discordapp.com/747227481471320104/" target="_blanket"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 ##
