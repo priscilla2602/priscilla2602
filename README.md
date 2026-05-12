@@ -8,9 +8,22 @@
 
 ---
 
-# 💫 Sobre mim
+# _💫 Sobre mim_
+Oii! Meu nome é Priscilla e atualmente estou no primeiro período de Engenharia de Software começando minha jornada no mundo da tecnologia e programação.🤍
+
+Tenho aprendido os fundamentos do desenvolvimento web, explorando Python, HTML, CSS, JavaScript, Java, C, C++, C# e lógica de programação, sempre buscando melhorar minhas habilidades e criar projetos criativos e funcionais.✨
+
+Meu objetivo é evoluir constantemente como engenheira de software, adquirindo experiência e conhecimento para criar projetos criativos, modernos e funcionais. 💻
+
+Busco aprimorar minhas habilidades em desenvolvimento web, aprender novas tecnologias e transformar ideias em soluções que unam estética, criatividade e tecnologia. 🌸
+
+Nos meus momentos livres gosto de ouvir música, jogar, assistir séries/filmes e transformar ideias aleatórias em código.🎮
+
+Sempre buscando aprender algo novo e deixar meus projetos cada vez mais aesthetic e únicos! 🌷
 
 <img align="right" alt="girl coding" width="250" src="https://i.pinimg.com/originals/58/79/ec/5879ecf3e80a04ca4e8ea49975b43494.gif">
+
+##
 
 _🌷 Redes Sociais_
 
@@ -45,10 +58,5 @@ _🌷 Redes Sociais_
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priscilla2602/priscilla2602/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priscilla2602/priscilla2602/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priscilla2602/priscilla2602/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 
