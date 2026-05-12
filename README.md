@@ -20,6 +20,7 @@ _🌷 Redes Sociais_
  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
 </div>
 
+##
 
  _💻 Linguagens e Ferramentas_
 
@@ -42,6 +43,12 @@ _🌷 Redes Sociais_
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
 </div>
 
+##
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priscilla2602/priscilla2602/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priscilla2602/priscilla2602/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priscilla2602/priscilla2602/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 
