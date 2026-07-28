@@ -9,7 +9,7 @@
 ---
 
 # _💫 Sobre mim_
-Oii! Meu nome é Priscilla e atualmente estou no primeiro período de Engenharia de Software começando minha jornada no mundo da tecnologia e programação.🤍
+Oii! Meu nome é Priscilla e atualmente estou no segundo período de Engenharia de Software começando minha jornada no mundo da tecnologia e programação.🤍
 
 Tenho aprendido os fundamentos do desenvolvimento web, explorando Python, HTML, CSS, JavaScript, Java, C, C++, C# e lógica de programação, sempre buscando melhorar minhas habilidades e criar projetos criativos e funcionais.✨
 
