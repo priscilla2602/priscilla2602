@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B6C2&height=250&section=header&text=Priscilla%20Lopes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%F0%9F%92%96&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7B6C2&height=250&section=header&text=Priscilla%20Louzada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%F0%9F%92%96&descAlignY=58&descAlign=50" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=F7A8B8&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B8+Estudante+de+Engenharia+de+Software;%F0%9F%92%BB+Desenvolvimento+Web+%26+Programa%C3%A7%C3%A3o;%E2%9C%A8+Transformando+ideias+em+c%C3%B3digo;%F0%9F%8E%AE+Games+%7C+M%C3%BAsica+%7C+Design+Aesthetic" />
 
